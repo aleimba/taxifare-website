@@ -1,2 +1,4 @@
 streamlit
 pandas
+# state 'requests' explicity, but actually a dependency of streamlit
+requests
